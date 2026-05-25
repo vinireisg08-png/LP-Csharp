@@ -1,7 +1,0 @@
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\obj\Debug\Exercício6.csproj.AssemblyReference.cache
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\obj\Debug\Exercício6.csproj.CoreCompileInputs.cache
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\bin\Debug\Exercício6.exe.config
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\bin\Debug\Exercício6.exe
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\bin\Debug\Exercício6.pdb
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\obj\Debug\Exercício6.exe
-C:\Users\7\source\repos\Andrii - Fernando\Exercício6\Exercício6\obj\Debug\Exercício6.pdb
